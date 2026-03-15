@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+venv/
+env/
+catboost_info/
+*.csv
+!outputs/submission.csv
